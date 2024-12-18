@@ -41,12 +41,58 @@ GitHub는 소프트웨어 개발자들이 코드를 버전 관리하고 협업�
 1. GitHub Actions
 2. GitHub Packages
 3. APIs
-4. 
+4. GitHub Marketplace
+5. Webhooks
+6. GitHub-hosted runners
+7. Self-hosted runners
+8. Workflow visualization
+9. Workflow templates
 ### 3.3. Application Security
+1. Code scanning
+2. GitHub Copilot Autofix
+3. Security campaigns
+4. Secret scanning
+5. GitHub Copilot secret scanning
+6. Dependency graph
+7. Dependabot alerts
+8. Dependabot security and version update
+9. Dependency review
+10. GitHub security advisories
+11. Private vulnerability reporting
+12. GitHub Advisory Database
 ### 3.4. Client apps
+1. GitHub Mobile
+2. GitHub CLI
+3. GitHub Desktop
 ### 3.5. Project Management
+1. GitHub Projects
+2. GitHub Issues
+3. Milestones
+4. Charts and insights
+5. Org dependency insight
+6. Repository insight
+7. Wikis
 ### 3.6. Governance & Administration
+1. Organizations
+2. Teams
+3. Team sync
+4. Custom roles
+5. Custom repository roles
+6. Domain verification
+7. Compliance reports
+8. Audit log
+9. Repository rules
+10. Enterprise accounts
+11. GitHub connect
+12. SAML
+13. LDAP
+14. Enterprise Managed Users
+15. Bring your own identity provider for Enterprise Managed Users16. 
 ### 3.7. Community
+1. GitHub Sponsors
+2. GitHub Skills
+3. Electron
+4. Education
 
 
 ## 3 
