@@ -29,13 +29,24 @@ GitHub는 소프트웨어 개발자들이 코드를 버전 관리하고 협업�
     > GitHub는 다양한 외부 도구와의 통합을 지원합니다. 예를 들어, Slack, Jira, Trello 등과의 연동을 통해 효율적인 팀 작업을 할 수 있습니다.   
     
 ## 3. GitHub 주요 기능
-### 3.1 Collaborative Coding
-### 3.2 Automation and CI/CD
-### 3.3 Application Security
-### 3.4 Client apps
-### 3.5 Project Management
-### 3.6 Governance & Administration
-### 3.7 Community
+### 3.1. Collaborative Coding
+1. GitHub Codespaces
+2. GitHub Copilot
+3. Pull Requests
+4. Discussion
+5. Code Search & view
+6. Code Review
+7. Draft pull requests
+### 3.2. Automation and CI/CD
+1. GitHub Actions
+2. GitHub Packages
+3. APIs
+4. 
+### 3.3. Application Security
+### 3.4. Client apps
+### 3.5. Project Management
+### 3.6. Governance & Administration
+### 3.7. Community
 
 
 ## 3 
